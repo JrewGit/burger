@@ -1,12 +1,19 @@
 body {
     background-image: url(../img/Goodbye\,_Krabby_Patty_127.png);
     background-size: 100%;
-    color: white;
+    color: black;
+}
+
+h1 {
+    color: black;
+    background: #e1b65d;
+    border-radius: 15px;
+    opacity: .90;
 }
 
 img {
-    height: 215px;
-    width: 215px;
+    height: 150px;
+    width: 150px;
 }
 
 ul {
@@ -16,4 +23,11 @@ ul {
 
 li {
     list-style-type: none;
+}
+
+#newBurger, #not_devoured_burger, #devoured_burger {
+    background: #e1b65d;
+    border-radius: 15px;
+    padding: 15px 0;
+    opacity: .90;
 }
