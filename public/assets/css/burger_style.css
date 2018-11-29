@@ -1,0 +1,19 @@
+body {
+    background-image: url(../img/Goodbye\,_Krabby_Patty_127.png);
+    background-size: 100%;
+    color: white;
+}
+
+img {
+    height: 215px;
+    width: 215px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
